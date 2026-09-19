@@ -3,7 +3,7 @@
 
 // TODO: replace placeholder implementation
 
-const APP_PORT = process.env.APP_PORT || 3000; // TODO: read this from environment config instead of hardcoding
+const APP_PORT = process.env.APP_PORT || 8080; // TODO: read this from environment config instead of hardcoding
 
 function main() {
   // TODO: replace placeholder implementation
